@@ -1,0 +1,73 @@
+/* Apply a background color to the body */
+body {
+    background-color: #f8f8f8;
+  }
+  
+  /* Apply a border and margin to section headings */
+  section {
+    border: 1px solid #ddd;
+    margin: 20px 0;
+    padding: 20px;
+  }
+  
+  /* Style the header */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style the main heading */
+  h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the image */
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  /* Style the table */
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Style the unordered list */
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the list items */
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style the ordered list */
+  ol {
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
